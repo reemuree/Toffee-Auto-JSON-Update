@@ -7,7 +7,7 @@ OUTPUT_JSON = "toffee_formatted.json"
 
 DEFAULT_HEADERS = {
     "Host": "bldcmprod-cdn.toffeelive.com",
-    "user-agent": "Toffee BD Tech Expert (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "user-agent": "(Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
     "client-api-header": "null",
     "accept-encoding": "gzip"
 }
@@ -39,7 +39,7 @@ def generate_formatted_json():
     final_json = {
         "status": "success",
         "name": "Toffee Live Channels",
-        "owner": "BD Tech Expert",
+        "owner": "Padma Flix",
         "channels_amount": len(response_data),
         "Last_update": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
         "response": response_data
