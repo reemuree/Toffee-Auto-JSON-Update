@@ -46,23 +46,7 @@
 
 
 
-# 🎬How To Play
-**📱Android**
-* Use Network Stream Player [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_NS_Player.m3u)
-* 👆 Short Link :
-  ```
-  https://shorturl.at/heUyP
-  ```
-*  Enjoy 😊
-
-**🖥️ Android TV**
-* Use OTT Navigator [Download](https://apkpure.com/ott-navigator-iptv/studio.scillarium.ottnavigator/amp)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_OTT_Navigator.m3u)
-*  👆 Short Link :
-   ```
-   https://shorturl.at/czHW8
-   ```
+-
 *  Enjoy 🫡
 
 <h1 align="center">
@@ -73,8 +57,7 @@
 </h1>
 
 # 🚬Credits
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=Made+By+Team+RXS)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&pause=1000&color=0407F7&background=BEFFC200&vCenter=true&multiline=true&width=435&lines=Padma+Flix)](https://git.io/typing-svg)
 
 
 # 📝Note
