@@ -7,7 +7,7 @@ OUTPUT_JSON = "toffee_formatted.json"
 
 DEFAULT_HEADERS = {
     "Host": "bldcmprod-cdn.toffeelive.com",
-    "user-agent": "(Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36",
     "client-api-header": "null",
     "accept-encoding": "gzip"
 }
