@@ -2,7 +2,7 @@ import requests
 import json
 from datetime import datetime
 
-M3U_URL = "https://raw.githubusercontent.com/BINOD-XD/Toffee-Auto-Update-Playlist/refs/heads/main/toffee_NS_Player.m3u"
+M3U_URL = "https://raw.githubusercontent.com/kgkaku/Toffee-Auto-Update-Playlist/refs/heads/main/universal.m3u"
 OUTPUT_JSON = "toffee_formatted.json"
 
 DEFAULT_HEADERS = {
